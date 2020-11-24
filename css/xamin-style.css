@@ -361,7 +361,7 @@ header.style-one.style-two .navbar ul li .sub-menu li:hover, header.style-one.st
 /*----------------------------------------------------------------------
                                 Buttons
 -----------------------------------------------------------------------*/
-.button { color: #ffffff; padding: 15px 40px; border: none; position: relative; display: inline-block; -webkit-border-radius: 0; -moz-border-radius: 0; border-radius: 0; background: #313e5b; border-radius: 90px; cursor: pointer; z-index: 4; }
+.button { color: #ffffff; padding: 15px 120px; border: none; position: relative; display: inline-block; -webkit-border-radius: 0; -moz-border-radius: 0; border-radius: 0; background: #313e5b; border-radius: 90px; cursor: pointer; z-index: 4; }
 .button:hover { background: #437eeb; }
 .white-btn.button:hover, .blue-btn.button:hover { background: #313e5b; color: #ffffff; }
 .white-btn.button { color: #437eeb; background: #ffffff; }
